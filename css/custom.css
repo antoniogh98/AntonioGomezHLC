@@ -1,0 +1,36 @@
+/* Fondo oscuro para la barra de navegación */
+.navbar {
+    background-color: #343a40 !important;
+  }
+  
+  /* Estilo general del cuerpo */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  /* Títulos más elegantes */
+  h1, h2, h3 {
+    font-weight: 700;
+    color: #2c3e50;
+  }
+  
+  /* Estilo para las cards */
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Cambia el color del botón primario */
+  .btn-primary {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  /* Pie de página más sutil */
+  footer {
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+  
